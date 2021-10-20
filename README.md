@@ -9,4 +9,4 @@
 - Dataset: Variables metereologicas del IDEAM
 - Modelo: Red LSTM Multivariable y Autoencoder para detección de anomlias.
 
-[Codigo](https://github.com/DerekMazino/Deteccion_Heladas_Negras) | [Video](https://www.youtube.com/watch?v=Ep_fZO-4v3s&ab_channel=AngieGarcia) | [Dataset](https://colab.research.google.com/drive/1ZnIwhldOEOVABUZfbcRUJNqhigoT5JDv?usp=sharing)
+[Codigo](https://github.com/DerekMazino/Deteccion_Heladas_Negras) | [Video](https://www.youtube.com/watch?v=Ep_fZO-4v3s&ab_channel=AngieGarcia) | [Dataset](https://drive.google.com/drive/folders/1GNHrEemUi6pLhNeBPlHwy8rTPWUczsdf?usp=sharing)
